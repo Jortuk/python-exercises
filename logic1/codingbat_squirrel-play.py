@@ -1,0 +1,9 @@
+#!/usr/bin/env python3
+
+def squirrel_play(temp, is_summer):
+  if is_summer and temp >= 60 and temp <= 100:
+    return True
+  if temp >= 60 and temp <= 90:
+    return True
+  else:
+    return False
