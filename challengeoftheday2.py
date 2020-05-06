@@ -2,7 +2,6 @@
 
 factorial = 1
 
-
 #User input
 num = int(input("Please enter a number: "))
 
