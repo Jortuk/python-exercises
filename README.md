@@ -1,2 +1,2 @@
 # python-exercises
-Completed Python exercises 
+Exercises from codingbat.com 
